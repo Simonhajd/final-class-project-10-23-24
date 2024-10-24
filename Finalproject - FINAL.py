@@ -1,16 +1,10 @@
-import pyautogui
+
 from tkinter import ttk
-import PIL
-from PIL import Image, ImageTk
+
 import tkinter as tk
 from screeninfo import get_monitors 
-import os
-from tkterminal import Terminal
-import pynput
 from pynput.mouse import Listener
 import pyautogui
-import turtle
-import math 
 import random
 
 
